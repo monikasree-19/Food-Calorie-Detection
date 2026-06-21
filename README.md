@@ -96,7 +96,7 @@ cd Food-Calorie-Detection
 
 
 
-pip install tensorflow flask numpy pandas pillow
+pip install -r requirements.txt
 
 
 
@@ -140,6 +140,8 @@ Food-Calorie-Detection/
 
 │── calorie\_data.csv  
 
+│── requirements.txt  
+
 │── README.md  
 
 │  
@@ -156,7 +158,13 @@ Food-Calorie-Detection/
 
 │  
 
-└── uploads/
+├── uploads/  
+
+│  
+
+└── screenshots/  
+
+&#x20;   └── result.png  
 
 
 
@@ -168,19 +176,11 @@ Food-Calorie-Detection/
 
 
 
-\### Home Page
-
-
-
-(Add your home page screenshot here)
-
-
-
 \### Prediction Result
 
 
 
-(Add your result screenshot here)
+!\[Prediction Result](screenshots/result.png)
 
 
 
@@ -192,7 +192,7 @@ Food-Calorie-Detection/
 
 
 
-Monika Sree  
+\*\*Monika Sree\*\*  
 
 BE Computer Science and Engineering Student
 
