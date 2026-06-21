@@ -164,6 +164,8 @@ Food-Calorie-Detection/
 
 └── screenshots/  
 
+&#x20;   ├── home.png  
+
 &#x20;   └── result.png  
 
 
@@ -173,6 +175,14 @@ Food-Calorie-Detection/
 
 
 \## 📸 Screenshots
+
+
+
+\### Home Page
+
+
+
+!\[Home Page](screenshots/home.png)
 
 
 
